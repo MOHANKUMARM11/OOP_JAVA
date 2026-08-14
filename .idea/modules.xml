@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banking Management/Banking Management.iml" filepath="$PROJECT_DIR$/Banking Management/Banking Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee_Salary_Management/Employee_Salary_Management.iml" filepath="$PROJECT_DIR$/Employee_Salary_Management/Employee_Salary_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_OOPs.iml" filepath="$PROJECT_DIR$/.idea/JAVA_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_Result_Management/Student_Result_Management.iml" filepath="$PROJECT_DIR$/Student_Result_Management/Student_Result_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle_Management/Vehicle_Management.iml" filepath="$PROJECT_DIR$/Vehicle_Management/Vehicle_Management.iml" />
+    </modules>
+  </component>
+</project>
