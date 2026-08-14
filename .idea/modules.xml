@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Banking Management/Banking Management.iml" filepath="$PROJECT_DIR$/Banking Management/Banking Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee_Salary_Management/Employee_Salary_Management.iml" filepath="$PROJECT_DIR$/Employee_Salary_Management/Employee_Salary_Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_OOPs.iml" filepath="$PROJECT_DIR$/.idea/JAVA_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payment_Management/Payment_Management.iml" filepath="$PROJECT_DIR$/Payment_Management/Payment_Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student_Result_Management/Student_Result_Management.iml" filepath="$PROJECT_DIR$/Student_Result_Management/Student_Result_Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vehicle_Management/Vehicle_Management.iml" filepath="$PROJECT_DIR$/Vehicle_Management/Vehicle_Management.iml" />
     </modules>
